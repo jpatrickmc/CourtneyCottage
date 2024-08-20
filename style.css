@@ -10,9 +10,7 @@ body {
 h1 {
   font-family: fantasy;
   font-size: 3em;
-  border-bottom: 2px solid red;
-  border-right: 2px solid red;
-  width: 400px;
+  width: 100%;
   text-align: center;
   box-shadow: 4px 4px 5px #888888;
   margin-top: 10px;
